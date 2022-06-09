@@ -1,0 +1,3 @@
+# 
+simple search barr to serrch pieces of clothes, using html,css anf javaScript.
+alterations very soon...
